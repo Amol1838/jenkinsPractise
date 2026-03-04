@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-04T18:12:13 IST" name="Suite" finished-at="2026-03-04T18:12:13 IST" duration-ms="336">
+    <groups>
+    </groups>
+    <test started-at="2026-03-04T18:12:13 IST" name="Test" finished-at="2026-03-04T18:12:13 IST" duration-ms="336">
+      <class name="automation.practice.TestA">
+        <test-method signature="test1()[pri:0, instance:automation.practice.TestA@10e41621]" started-at="2026-03-04T18:12:13 IST" name="test1" finished-at="2026-03-04T18:12:13 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:automation.practice.TestA@10e41621]" started-at="2026-03-04T18:12:13 IST" name="test2" finished-at="2026-03-04T18:12:13 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:automation.practice.TestA@10e41621]" started-at="2026-03-04T18:12:13 IST" name="test3" finished-at="2026-03-04T18:12:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:automation.practice.TestA@10e41621]" started-at="2026-03-04T18:12:13 IST" name="test4" finished-at="2026-03-04T18:12:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- automation.practice.TestA -->
+      <class name="automation.practice.TestD">
+        <test-method signature="test41()[pri:0, instance:automation.practice.TestD@2e4b8173]" started-at="2026-03-04T18:12:13 IST" name="test41" finished-at="2026-03-04T18:12:13 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test41 -->
+        <test-method signature="test42()[pri:0, instance:automation.practice.TestD@2e4b8173]" started-at="2026-03-04T18:12:13 IST" name="test42" finished-at="2026-03-04T18:12:13 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test42 -->
+        <test-method signature="test43()[pri:0, instance:automation.practice.TestD@2e4b8173]" started-at="2026-03-04T18:12:13 IST" name="test43" finished-at="2026-03-04T18:12:13 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test43 -->
+        <test-method signature="test44()[pri:0, instance:automation.practice.TestD@2e4b8173]" started-at="2026-03-04T18:12:13 IST" name="test44" finished-at="2026-03-04T18:12:13 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test44 -->
+      </class> <!-- automation.practice.TestD -->
+      <class name="automation.practice.TestB">
+        <test-method signature="test21()[pri:0, instance:automation.practice.TestB@353d0772]" started-at="2026-03-04T18:12:13 IST" name="test21" finished-at="2026-03-04T18:12:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test21 -->
+        <test-method signature="test22()[pri:0, instance:automation.practice.TestB@353d0772]" started-at="2026-03-04T18:12:13 IST" name="test22" finished-at="2026-03-04T18:12:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test22 -->
+        <test-method signature="test23()[pri:0, instance:automation.practice.TestB@353d0772]" started-at="2026-03-04T18:12:13 IST" name="test23" finished-at="2026-03-04T18:12:13 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test23 -->
+        <test-method signature="test24()[pri:0, instance:automation.practice.TestB@353d0772]" started-at="2026-03-04T18:12:13 IST" name="test24" finished-at="2026-03-04T18:12:13 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test24 -->
+      </class> <!-- automation.practice.TestB -->
+      <class name="automation.practice.TestC">
+        <test-method signature="test31()[pri:0, instance:automation.practice.TestC@2667f029]" started-at="2026-03-04T18:12:13 IST" name="test31" finished-at="2026-03-04T18:12:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test31 -->
+        <test-method signature="test32()[pri:0, instance:automation.practice.TestC@2667f029]" started-at="2026-03-04T18:12:13 IST" name="test32" finished-at="2026-03-04T18:12:13 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test32 -->
+        <test-method signature="test33()[pri:0, instance:automation.practice.TestC@2667f029]" started-at="2026-03-04T18:12:13 IST" name="test33" finished-at="2026-03-04T18:12:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test33 -->
+        <test-method signature="test34()[pri:0, instance:automation.practice.TestC@2667f029]" started-at="2026-03-04T18:12:13 IST" name="test34" finished-at="2026-03-04T18:12:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test34 -->
+      </class> <!-- automation.practice.TestC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
